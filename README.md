@@ -23,7 +23,7 @@ The project follows a layered architecture using **Controller, Service, DAO, Ent
 ---
 
 ## 📂 Project Structure
-
+------
 SAMSTRACK_API
 │
 ├── src
@@ -43,7 +43,7 @@ SAMSTRACK_API
 │
 ├── pom.xml
 └── README.md
-
+-------------
 ## 🔹 Main Modules
 
 ### 👨‍🎓 Student Management
