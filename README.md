@@ -7,21 +7,7 @@ SAMSTRACK API is a backend REST API project developed using **Java and Spring Bo
 The application provides APIs to manage students, subjects, users, and attendance records through a structured backend architecture.
 
 The project follows a layered architecture using **Controller, Service, DAO, Entity, Model, and Exception** packages.
-
----
-
-## 🛠️ Technologies Used
-
-- Java
-- Spring Boot
-- REST API
-- Maven
-- Spring Data JPA
-- MySQL
-- Git & GitHub
-
----
-
+--------------------
 
 ## 📂 Project Structure
 
@@ -46,7 +32,19 @@ SAMSTRACK_API
 ├── pom.xml
 └── README.md
 
----------------
+---
+
+## 🛠️ Technologies Used
+
+- Java
+- Spring Boot
+- REST API
+- Maven
+- Spring Data JPA
+- MySQL
+- Git & GitHub
+
+---
 
 ## 🔹 Main Modules
 
