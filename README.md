@@ -46,10 +46,6 @@ SAMSTRACK_API
 └── README.md
 
 
-
-
-## 🔹 Main Modules
-
 ### 👨‍🎓 Student Management
 
 Provides functionality to manage student information.
