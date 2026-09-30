@@ -22,28 +22,6 @@ The project follows a layered architecture using **Controller, Service, DAO, Ent
 
 ---
 
-## 📂 Project Structure
-```text
-SAMSTRACK_API
-│
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com.tka.sams.api
-│   │   │       ├── controller
-│   │   │       ├── dao
-│   │   │       ├── entity
-│   │   │       ├── exceptions
-│   │   │       ├── model
-│   │   │       └── service
-│   │   │
-│   │   └── resources
-│   │
-│   └── test
-│
-├── pom.xml
-└── README.md
--------
 
 ## 🔹 Main Modules
 
