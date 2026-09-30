@@ -22,9 +22,6 @@ The project follows a layered architecture using **Controller, Service, DAO, Ent
 
 ---
 
-## 📂 Project Structure
-
-```text
 SAMSTRACK_API
 │
 ├── src
@@ -47,7 +44,7 @@ SAMSTRACK_API
 
 ## 🔹 Main Modules
 
-### 👨‍🎓 Student Management
+### 👨🎓 Student Management
 
 Provides functionality to manage student information.
 
@@ -182,6 +179,18 @@ This project helped in gaining practical experience with:
 ## 📁 Project Files
 
 The project contains the complete Spring Boot source code, including controllers, services, DAO classes, entities, models, exception handling, and application configuration.
+
+---
+
+## 👤 Author
+
+**Asmita Gadekar**
+
+Java Developer | Spring Boot | REST API | SQL
+
+---
+
+⭐ If you found this project useful, feel free to explore the source code and APIs.configuration.
 
 ---
 
