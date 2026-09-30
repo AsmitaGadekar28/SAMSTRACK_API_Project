@@ -24,7 +24,6 @@ The project follows a layered architecture using **Controller, Service, DAO, Ent
 
 ## 📂 Project Structure
 
-```text
 SAMSTRACK_API
 │
 ├── src
