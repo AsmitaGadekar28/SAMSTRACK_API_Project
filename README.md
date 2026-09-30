@@ -43,7 +43,20 @@ SAMSTRACK_API
 │
 ├── pom.xml
 └── README.md
+
 -------------
+## 📂 Database Structure
+
+The project uses four main modules:
+
+| **Module**       | **Description**                                      |
+| ---------------- | ---------------------------------------------------- |
+| `Student`        | Stores student information and details               |
+| `Subject`        | Manages subject information                          |
+| `User`           | Manages user information and user-related details    |
+| `Attendance`     | Stores and manages student attendance records        |
+
+----------
 ## 🔹 Main Modules
 
 ### 👨‍🎓 Student Management
@@ -123,7 +136,27 @@ Contains request/response related models.
 Handles application-specific exceptions.
 
 ---
+## ⚙️ Backend Concepts Used
 
+This project demonstrates the use of:
+
+- RESTful API Development
+- CRUD Operations
+- Spring Boot
+- Spring MVC
+- Dependency Injection
+- Spring Data JPA
+- Hibernate ORM
+- MySQL Database Integration
+- Entity Mapping
+- Service Layer Architecture
+- DAO / Repository Layer
+- Exception Handling
+- Path Variables
+- Request Body Handling
+- CORS Configuration
+
+  -------------
 ## 🚀 Key Features
 
 - RESTful API architecture
@@ -183,6 +216,11 @@ This project helped in gaining practical experience with:
 The project contains the complete Spring Boot source code, including controllers, services, DAO classes, entities, models, exception handling, and application configuration.
 
 ---
+## 🚀 Skills Demonstrated
+
+`Java` `Spring Boot` `REST API Development` `MySQL` `Spring Data JPA` `Hibernate` `CRUD Operations` `Backend Development`
+
+----
 
 ## 👤 Author
 
